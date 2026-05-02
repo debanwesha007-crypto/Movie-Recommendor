@@ -1,6 +1,10 @@
 # 🎬 CineMatch — Hybrid Movie Recommender
 
 A production-ready Streamlit app combining **Content-Based** and **Collaborative Filtering** to recommend movies from the [MovieLens Small dataset](https://grouplens.org/datasets/movielens/latest/).
+<img width="1880" height="907" alt="mvc4" src="https://github.com/user-attachments/assets/249f72d8-d024-4c67-9303-51fdc8ededfc" />
+<img width="1883" height="917" alt="mvc3" src="https://github.com/user-attachments/assets/84fdb4ea-db40-4ec3-ac00-4264fc35bc09" />
+<img width="1901" height="900" alt="mvc2" src="https://github.com/user-attachments/assets/5574220b-36c9-4235-9973-6e52838e9aa6" />
+<img width="1901" height="907" alt="mvc1" src="https://github.com/user-attachments/assets/cd77bd6f-72f6-4d54-816e-103df89cff68" />
 
 ---
 
@@ -42,6 +46,13 @@ git push -u origin main
 > The app automatically downloads the MovieLens dataset on first run (~6 MB).
 
 ---
+
+## The Code 
+<img width="1472" height="902" alt="mvc code4" src="https://github.com/user-attachments/assets/4302371f-9a57-4d8f-b7ba-68da287528e1" />
+<img width="1463" height="892" alt="mvc code3" src="https://github.com/user-attachments/assets/f33fe4e6-e9fd-43dd-8e43-1d839bef7080" />
+<img width="1451" height="897" alt="mvc code1" src="https://github.com/user-attachments/assets/01c15aa6-f7cb-42ae-8fb1-b30d5b3ca8e5" />
+<img width="1481" height="946" alt="mvc code " src="https://github.com/user-attachments/assets/8cc1f92b-f77b-48a3-ae20-62e834d902c8" />
+
 
 ## 🧠 How It Works
 
